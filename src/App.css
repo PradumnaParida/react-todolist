@@ -1,0 +1,43 @@
+h1 {
+  text-align: center;
+}
+
+input {
+  text-align: center;
+
+  margin-left: 35vw;
+
+  font-size: 2vw;
+
+  padding: 1vw;
+
+  border-radius: 3vw;
+
+  background-color: bisque;
+}
+
+button {
+  background-color: aqua;
+
+  text-align: center;
+
+  padding: 1vw;
+
+  font-size: 2vw;
+
+  border-radius: 7vw;
+}
+
+ul {
+  list-style-type: none;
+
+  text-align: center;
+}
+
+li {
+  font-size: 2vw;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  font-weight: lighter;
+}
